@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\fe8f87169ea6da0bc81bfc89255e6d1c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\e1605b9c46b69532b941cc39ab59f39d\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\e11f06e6c829c2e4d76eb17b83c52e94\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\08aa8a648d083d6078bf3a94c151e9d2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-runtime-ktx-2.1.0-beta01.aar\a2e5844bbec86c150d4bc479054f4851\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-runtime-2.1.0-beta01.aar\0b045de94c6634cf5b907c2aa971101a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\94c834d4311d3c12dc6ca24bc5ec9905\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\03f53d5c0882c85548f9281ec2a156f3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\jetified-rxbinding-kotlin-2.2.0.aar\64a99e794a1c15551e07fc4a1623c302\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\jetified-rxbinding-2.2.0.aar\c74a9667582012ab758dcfcf74411712\AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\7e46a5e8821cf4c20f98d8ee58331e6f\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.room:room-rxjava2:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-rxjava2-2.2.5.aar\117825adaee39683a8560876422415a8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.paging:paging-rxjava2-ktx:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-rxjava2-ktx-2.1.0-beta01.aar\b11fb215bebe112daf64aa441826ef27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fc1fd2649b761d8438a8c563e8bdeb82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\ee19b0d32ef9a24353219edb9af1d8af\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\4061c206ae8514d60d4c2a5f32c9638b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\690b42cbf039adaa7514c37917bdeaed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\9a99b871c388233ba7b62551f918c570\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\fe4a8d637d70de9793b229d9d221bd9e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\89d9ed92030815693bc16b940dce7f4d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ab0d7991e1e8c3e2edcd4d8c399ea346\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\1e5a3679e86f864dcf37a6ae3f64c433\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\380a7735a71095e016136ec2f05dac06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-rxjava2:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-rxjava2-2.1.0-beta01.aar\54f591676f36a59759c8ed9e7fa9c08a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\410a29d6d43de04a28fc1bfb69de8940\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8173a89cd3ad92cc44cdb6f81ec02109\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\adbd5592276548c3207a9f68857859d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\80d925c79465818d1d91015359abcd0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1e1fedcddc14bd7c01090f1b6ba9d48a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\56a18b95beee7f0dbd9b967e8dc6f150\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\b24e7456e8a9c85b223ad99dd5f9521a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\352577f803b551b8701500f524f693e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\f39171ee369fccc5df0e80d674a3dd06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ccf2743aada9be150b9e0e2a87eea967\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\814cce5f3eaba79b491818dcf9c9d3dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1.aar\7c31bc06a5145f8d02b6f28eb0b3b983\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4a8d1cabe8d6f50b6686aae1e49c7af3\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c1e2d2d5efd3a2338cfbbbd4a43ce2a4\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\9d6c292d73c57476bd47f580f328bd7f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\c9d1d355b627aa97f0321a7d74644824\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\2c3aa4be69cb36347268e5e718356058\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.1.aar\6a05c57d47350428f017406c1a2939e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.1.aar\70fcc355cc9a87b2db24b3a265a7abf7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:3:11-65
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\fe8f87169ea6da0bc81bfc89255e6d1c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\fe8f87169ea6da0bc81bfc89255e6d1c\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\e1605b9c46b69532b941cc39ab59f39d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\e1605b9c46b69532b941cc39ab59f39d\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\03f53d5c0882c85548f9281ec2a156f3\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\03f53d5c0882c85548f9281ec2a156f3\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4a8d1cabe8d6f50b6686aae1e49c7af3\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4a8d1cabe8d6f50b6686aae1e49c7af3\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c1e2d2d5efd3a2338cfbbbd4a43ce2a4\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c1e2d2d5efd3a2338cfbbbd4a43ce2a4\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4a8d1cabe8d6f50b6686aae1e49c7af3\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:13:13-44
+activity#com.profitmobile.android.gamesofthronesbooks.ui.MainActivity
+ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:14:19-94
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\fe8f87169ea6da0bc81bfc89255e6d1c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\material-1.1.0.aar\fe8f87169ea6da0bc81bfc89255e6d1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\e1605b9c46b69532b941cc39ab59f39d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha2.aar\e1605b9c46b69532b941cc39ab59f39d\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\e11f06e6c829c2e4d76eb17b83c52e94\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\e11f06e6c829c2e4d76eb17b83c52e94\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\08aa8a648d083d6078bf3a94c151e9d2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\08aa8a648d083d6078bf3a94c151e9d2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-runtime-ktx-2.1.0-beta01.aar\a2e5844bbec86c150d4bc479054f4851\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-runtime-ktx-2.1.0-beta01.aar\a2e5844bbec86c150d4bc479054f4851\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-runtime-2.1.0-beta01.aar\0b045de94c6634cf5b907c2aa971101a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-runtime-2.1.0-beta01.aar\0b045de94c6634cf5b907c2aa971101a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\94c834d4311d3c12dc6ca24bc5ec9905\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\94c834d4311d3c12dc6ca24bc5ec9905\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\03f53d5c0882c85548f9281ec2a156f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\03f53d5c0882c85548f9281ec2a156f3\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\jetified-rxbinding-kotlin-2.2.0.aar\64a99e794a1c15551e07fc4a1623c302\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-kotlin:2.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\jetified-rxbinding-kotlin-2.2.0.aar\64a99e794a1c15551e07fc4a1623c302\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\jetified-rxbinding-2.2.0.aar\c74a9667582012ab758dcfcf74411712\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\jetified-rxbinding-2.2.0.aar\c74a9667582012ab758dcfcf74411712\AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\7e46a5e8821cf4c20f98d8ee58331e6f\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\rxandroid-2.1.1.aar\7e46a5e8821cf4c20f98d8ee58331e6f\AndroidManifest.xml:18:5-43
+MERGED from [androidx.room:room-rxjava2:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-rxjava2-2.2.5.aar\117825adaee39683a8560876422415a8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-rxjava2-2.2.5.aar\117825adaee39683a8560876422415a8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-rxjava2-ktx:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-rxjava2-ktx-2.1.0-beta01.aar\b11fb215bebe112daf64aa441826ef27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-rxjava2-ktx:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-rxjava2-ktx-2.1.0-beta01.aar\b11fb215bebe112daf64aa441826ef27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fc1fd2649b761d8438a8c563e8bdeb82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\fc1fd2649b761d8438a8c563e8bdeb82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\ee19b0d32ef9a24353219edb9af1d8af\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\ee19b0d32ef9a24353219edb9af1d8af\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\4061c206ae8514d60d4c2a5f32c9638b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\4061c206ae8514d60d4c2a5f32c9638b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\690b42cbf039adaa7514c37917bdeaed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\690b42cbf039adaa7514c37917bdeaed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\9a99b871c388233ba7b62551f918c570\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\9a99b871c388233ba7b62551f918c570\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\fe4a8d637d70de9793b229d9d221bd9e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\fe4a8d637d70de9793b229d9d221bd9e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\89d9ed92030815693bc16b940dce7f4d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\89d9ed92030815693bc16b940dce7f4d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ab0d7991e1e8c3e2edcd4d8c399ea346\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\ab0d7991e1e8c3e2edcd4d8c399ea346\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\1e5a3679e86f864dcf37a6ae3f64c433\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\1e5a3679e86f864dcf37a6ae3f64c433\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\380a7735a71095e016136ec2f05dac06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\380a7735a71095e016136ec2f05dac06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-rxjava2:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-rxjava2-2.1.0-beta01.aar\54f591676f36a59759c8ed9e7fa9c08a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-rxjava2:2.1.0-beta01] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\paging-rxjava2-2.1.0-beta01.aar\54f591676f36a59759c8ed9e7fa9c08a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\410a29d6d43de04a28fc1bfb69de8940\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\410a29d6d43de04a28fc1bfb69de8940\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8173a89cd3ad92cc44cdb6f81ec02109\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\8173a89cd3ad92cc44cdb6f81ec02109\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\adbd5592276548c3207a9f68857859d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\adbd5592276548c3207a9f68857859d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\80d925c79465818d1d91015359abcd0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\80d925c79465818d1d91015359abcd0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1e1fedcddc14bd7c01090f1b6ba9d48a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\1e1fedcddc14bd7c01090f1b6ba9d48a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\56a18b95beee7f0dbd9b967e8dc6f150\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\56a18b95beee7f0dbd9b967e8dc6f150\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\b24e7456e8a9c85b223ad99dd5f9521a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\b24e7456e8a9c85b223ad99dd5f9521a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\352577f803b551b8701500f524f693e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\352577f803b551b8701500f524f693e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\f39171ee369fccc5df0e80d674a3dd06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\f39171ee369fccc5df0e80d674a3dd06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ccf2743aada9be150b9e0e2a87eea967\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\ccf2743aada9be150b9e0e2a87eea967\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\814cce5f3eaba79b491818dcf9c9d3dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\814cce5f3eaba79b491818dcf9c9d3dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1.aar\7c31bc06a5145f8d02b6f28eb0b3b983\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.1.aar\7c31bc06a5145f8d02b6f28eb0b3b983\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4a8d1cabe8d6f50b6686aae1e49c7af3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\4a8d1cabe8d6f50b6686aae1e49c7af3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c1e2d2d5efd3a2338cfbbbd4a43ce2a4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\c1e2d2d5efd3a2338cfbbbd4a43ce2a4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\9d6c292d73c57476bd47f580f328bd7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\9d6c292d73c57476bd47f580f328bd7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\c9d1d355b627aa97f0321a7d74644824\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\c9d1d355b627aa97f0321a7d74644824\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\2c3aa4be69cb36347268e5e718356058\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\2c3aa4be69cb36347268e5e718356058\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.1.aar\6a05c57d47350428f017406c1a2939e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.1.aar\6a05c57d47350428f017406c1a2939e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.1.aar\70fcc355cc9a87b2db24b3a265a7abf7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.1.aar\70fcc355cc9a87b2db24b3a265a7abf7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+		ADDED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Portfolio\GameOfThronesBooks\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\room-runtime-2.2.5.aar\83180262c2bde71305420ec356c92da7\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\rob\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\ea2ba2730edf90b8662c7a139d198822\AndroidManifest.xml:24:13-79
